@@ -4,4 +4,4 @@
 ### run `npm install` then run `npm start`
 
 ## cd inside client folder
-### run `npm install` then run npm start`
+### run `npm install` then `run npm start`
